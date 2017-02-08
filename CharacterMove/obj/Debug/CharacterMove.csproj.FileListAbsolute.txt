@@ -1,0 +1,11 @@
+C:\Users\Ralph\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.exe.config
+C:\Users\Ralph\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.exe
+C:\Users\Ralph\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.pdb
+C:\Users\Ralph\Documents\programs\CharacterMove\CharacterMove\obj\Debug\CharacterMove.exe
+C:\Users\Ralph\Documents\programs\CharacterMove\CharacterMove\obj\Debug\CharacterMove.pdb
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.exe.config
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\obj\Debug\CharacterMove.exe
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\obj\Debug\CharacterMove.pdb
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.exe
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\bin\Debug\CharacterMove.pdb
+C:\Users\texas\Documents\programs\CharacterMove\CharacterMove\obj\Debug\CharacterMove.csprojResolveAssemblyReference.cache
